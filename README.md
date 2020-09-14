@@ -1,7 +1,7 @@
 # Porsche_Hackathon
 Runner up project of the 2019 Porsche Hackathon in Atlanta. Organized by Atalytics. Total 35 teams participated in this contest with members consisting of leading Data scientist from various major corporations across Atlanta.
 
-###first image
+# ![alt text](https://github.com/sanjayjain22/Porsche_Hackathon/blob/master/Resources/porsche_logo.png?raw=true)
 
 There were 3 questions and we took a novel approach for answering each questing using Data-driven methodologies. 
 
@@ -15,7 +15,8 @@ This can be a good case study for aspiring Data scientist.
 
 ## Data sources - https://afdc.energy.gov/fuels/electricity_locations.html#/find/nearest?fuel=ELEC
 
-### first slide over here
+
+# ![alt text](https://github.com/sanjayjain22/Porsche_Hackathon/blob/master/Resources/porsche_1st_slide.png?raw=true)
 
 # 2)  Which customers are likely to buy which EV's, which ones aren't?
 * We focused on the state of california.
@@ -33,7 +34,8 @@ This can be a good case study for aspiring Data scientist.
 
 ## Output - 
 
-### second slide over here
+
+# ![alt text](https://github.com/sanjayjain22/Porsche_Hackathon/blob/master/Resources/porsche_2nd_slide.png?raw=true)
 
 # 3) Who should we market to, what kind of cars and where?
 
@@ -44,6 +46,7 @@ This can be a good case study for aspiring Data scientist.
 
 ### Output - 
 
-### Third slide over here
+
+# ![alt text](https://github.com/sanjayjain22/Porsche_Hackathon/blob/master/Resources/porsche_3rd_slide.png?raw=true)
 
 * The cluster's that have to be marketed for this car or car of any prices can be selected upon by the business requirement.
